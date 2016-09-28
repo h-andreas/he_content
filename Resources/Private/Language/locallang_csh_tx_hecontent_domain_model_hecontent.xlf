@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-08-29T11:38:05Z" product-name="he_content">
+		<header/>
+		<body>
+			<trans-unit id="title.description">
+				<source>title</source>
+			</trans-unit>
+			<trans-unit id="subtitle.description">
+				<source>subtitle</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="media.description">
+				<source>media</source>
+			</trans-unit>
+			<trans-unit id="preview.description">
+				<source>preview</source>
+			</trans-unit>
+			<trans-unit id="linktext.description">
+				<source>linktext</source>
+			</trans-unit>
+			<trans-unit id="link.description">
+				<source>link</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

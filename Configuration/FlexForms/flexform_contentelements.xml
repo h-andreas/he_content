@@ -1,0 +1,27 @@
+<T3DataStructure>
+    <sheets>
+        <sDEF>
+            <ROOT>
+                <TCEforms>
+                    <sheetTitle>Element</sheetTitle>
+                </TCEforms>
+                <type>array</type>
+                <el>
+                    <settings.element>
+                        <TCEforms>
+                            <label>Element erstellen</label>
+                            <config>
+                                <type>inline</type>
+                                <foreign_table>tx_hecontent_domain_model_hecontent</foreign_table>
+                                <maxitems>999</maxitems>
+                                <numIndex index="0">
+                                    <numIndex index="0">HeContent->list</numIndex>
+                                </numIndex>
+                            </config>
+                        </TCEforms>
+                    </settings.element>
+                </el>
+            </ROOT>
+        </sDEF>
+    </sheets>
+</T3DataStructure>

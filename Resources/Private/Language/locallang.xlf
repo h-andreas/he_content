@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-08-29T11:38:05Z" product-name="he_content">
+		<header/>
+		<body>
+			<trans-unit id="tx_hecontent_domain_model_hecontent">
+				<source>He Content</source>
+			</trans-unit>
+			<trans-unit id="tx_hecontent_domain_model_hecontent.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_hecontent_domain_model_hecontent.subtitle">
+				<source>Subtitle</source>
+			</trans-unit>
+			<trans-unit id="tx_hecontent_domain_model_hecontent.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_hecontent_domain_model_hecontent.media">
+				<source>Media</source>
+			</trans-unit>
+			<trans-unit id="tx_hecontent_domain_model_hecontent.preview">
+				<source>Preview</source>
+			</trans-unit>
+			<trans-unit id="tx_hecontent_domain_model_hecontent.linktext">
+				<source>Linktext</source>
+			</trans-unit>
+			<trans-unit id="tx_hecontent_domain_model_hecontent.link">
+				<source>Link</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
